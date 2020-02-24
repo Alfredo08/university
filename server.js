@@ -6,7 +6,7 @@ const jsonParser = bodyParser.json();
 
 const database = knex({
     client : 'pg',
-    connection : 'postgresql://alfredosalazar@localhost/university'
+    connection : 'postgresql://universityuser@localhost/university'
 })
 
 app.get( '/api/getStudentInfo', ( req, res ) => {
