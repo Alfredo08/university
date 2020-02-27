@@ -7,7 +7,7 @@ CREATE TABLE students(
 );
 
 
-INSERT INTO students VALUES(12345, 'Daniel', 'Di Venere', 4, 'Computer Science');
+INSERT INTO students VALUES(12345, 'Daniel', 'Rivera', 4, 'Computer Science');
 INSERT INTO students VALUES(72635, 'Angel', 'Miller', 6, 'Computer Science');
 INSERT INTO students VALUES(29384, 'Michael', 'Gibson', 4, 'Biology');
 INSERT INTO students VALUES(27632, 'Julia', 'Waters', 2, 'Computer Science');
